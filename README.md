@@ -11,3 +11,7 @@
 2002. Maximum Product of the Length of Two Palindromic Subsequences
 299. Bulls and Cows
 
+# day 4
+1823. Find the Winner of the Circular Game
+1248. Count Number of Nice Subarrays
+2976. Minimum Cost to Convert String I
