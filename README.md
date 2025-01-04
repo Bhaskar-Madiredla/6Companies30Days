@@ -15,3 +15,7 @@
 1823. Find the Winner of the Circular Game
 1248. Count Number of Nice Subarrays
 2976. Minimum Cost to Convert String I
+
+# day 5
+638. Shopping Offers
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
