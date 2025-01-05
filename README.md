@@ -23,4 +23,4 @@
 # day 6
 3154. Find Number of Ways to Reach the K-th Stair
 845. Longest Mountain in Array
-1. (GFG) K Sized Subarray Maximum
+1.  K Sized Subarray Maximum(GFG)
