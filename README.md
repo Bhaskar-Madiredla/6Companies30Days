@@ -21,6 +21,6 @@
 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
 # day 6
-K Sized Subarray Maximum
 3154. Find Number of Ways to Reach the K-th Stair
 845. Longest Mountain in Array
+K Sized Subarray Maximum
