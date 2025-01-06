@@ -24,3 +24,9 @@
 3154. Find Number of Ways to Reach the K-th Stair
 845. Longest Mountain in Array
 1.  K Sized Subarray Maximum(GFG)
+
+# day 7
+2385. Amount of Time for Binary Tree to Be Infected
+994. Rotting Oranges
+188. Best Time to Buy and Sell Stock IV
+
