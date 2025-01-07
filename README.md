@@ -30,3 +30,7 @@
 994. Rotting Oranges
 188. Best Time to Buy and Sell Stock IV
 
+# day 8
+168. Excel Sheet Column Title
+387. First Unique Character in a String
+2461. Maximum Sum of Distinct Subarrays With Length K
