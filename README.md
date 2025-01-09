@@ -35,7 +35,7 @@
 387. First Unique Character in a String
 2461. Maximum Sum of Distinct Subarrays With Length K
 
-# day 9
+# day 10
 187. Repeated DNA Sequences
 1.Nuts and Bolts Problem(GFG)
 
