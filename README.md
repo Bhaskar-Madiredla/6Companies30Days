@@ -36,5 +36,9 @@
 2461. Maximum Sum of Distinct Subarrays With Length K
 
 # day 9
+187. Repeated DNA Sequences
+1.Nuts and Bolts Problem(GFG)
+
+# day 9
 36. Valid Sudoku
 1. Delete N nodes after M nodes of a linked list(GFG)
