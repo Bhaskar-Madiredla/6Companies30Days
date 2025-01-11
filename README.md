@@ -45,3 +45,9 @@
 
 # day 11
 297. Serialize and Deserialize Binary Tree
+
+# day 12
+703. Kth Largest Element in a Stream
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+2099. Find Subsequence of Length K With the Largest Sum
+2385. Amount of Time for Binary Tree to Be Infected
