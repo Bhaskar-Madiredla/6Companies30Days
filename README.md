@@ -51,3 +51,8 @@
 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 2099. Find Subsequence of Length K With the Largest Sum
 2385. Amount of Time for Binary Tree to Be Infected
+
+# day 13
+1686. Stone Game VI
+368. Largest Divisible Subset
+324. Wiggle Sort II
